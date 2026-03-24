@@ -1,0 +1,1 @@
+# A normal file to learn design pattern
